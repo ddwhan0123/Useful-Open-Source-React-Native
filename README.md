@@ -38,3 +38,6 @@
 ##  WebView<br>
 ## [点击跳转 WebView.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/WebView.md)
 
+##  IntegratedComponent<br>
+## [点击跳转 IntegratedComponent.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/IntegratedComponent.md)
+
