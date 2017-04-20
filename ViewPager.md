@@ -1,6 +1,11 @@
 # ViewPager
 
+
+
 ## 首页切换图<br>
+
+
+
 
 项目名：react-native-app-intro<br>
 git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
@@ -38,4 +43,15 @@ Custom version of the IOS SegmentedControl component
 git地址：https://github.com/zbtang/React-Native-ViewPager<br>
 预览:<br>
 <img src="https://github.com/zbtang/React-Native-ViewPager/raw/master/imgs/titleIndicator.gif" width="23%"/>
+<br>
+
+
+
+## 类ViewPager的混合控件<br>
+
+
+项目名：react-native-step-indicator<br>
+git地址：https://github.com/24ark/react-native-step-indicator<br>
+预览:<br>
+<img src="https://github.com/24ark/react-native-step-indicator/raw/master/art/HorizontalStepIndicator.gif" width="23%"/>
 <br>
