@@ -9,7 +9,7 @@ git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
 <br>
 
 
-##banner<br>
+## banner<br>
 
 
 项目名：react-native-viewpager<br>
@@ -29,4 +29,13 @@ git地址：https://github.com/wix/react-native-custom-segmented-control<br>
 <br>
 描述:<br>
 Custom version of the IOS SegmentedControl component
+<br>
+
+
+## 全功能ViewPager<br>
+
+项目名：React-Native-ViewPager<br>
+git地址：https://github.com/zbtang/React-Native-ViewPager<br>
+预览:<br>
+<img src="https://github.com/zbtang/React-Native-ViewPager/raw/master/imgs/titleIndicator.gif" width="23%"/>
 <br>
