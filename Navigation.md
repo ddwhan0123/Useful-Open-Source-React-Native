@@ -9,3 +9,8 @@ git地址：https://github.com/wix/react-native-navigation<br>
 描述:<br>
 A complete native navigation solution for React Native - nav bars, tabs, drawer, modals<br>
 
+项目名：native-navigation<br>
+git地址：https://github.com/airbnb/native-navigation<br>
+描述:<br>
+Native navigation library for React Native applications http://airbnb.io/native-navigation/<br>
+
