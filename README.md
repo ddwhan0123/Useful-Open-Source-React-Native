@@ -53,3 +53,7 @@
 
 ##  Toast<br>
 ## [点击跳转 Toast.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Toast.md)
+
+##  StarRating<br>
+## [点击跳转 StarRating.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/StarRating.md)
+
