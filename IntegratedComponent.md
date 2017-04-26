@@ -13,7 +13,7 @@ UI Components Library for React Native
 项目名：react-native-material-kit<br>
 git地址：https://github.com/xinthink/react-native-material-kit<br>
 预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/390805/9288698/01e31432-4387-11e5-98e5-85b18471baeb.gif" width="23%"/>
+<img src="https://cloud.githubusercontent.com/assets/390805/9288698/01e31432-4387-11e5-98e5-85b18471baeb.gif" width="38%"/>
 <br>
 描述:<br>
 Bringing Material Design to React Native http://j.mp/rnmdk
