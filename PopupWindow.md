@@ -13,3 +13,11 @@ https://github.com/react-community/react-native-image-picker<br>
 预览:<br>
 <img src="https://github.com/marcshilling/react-native-image-picker/raw/master/images/ios-image.png" width="30%"/>
 <br>
+
+
+https://github.com/beefe/react-native-picker<br>
+解释：A Native Picker with high performance
+<br>
+预览:<br>
+<img src="https://github.com/beefe/react-native-picker/raw/master/doc/ui4.jpg" width="30%"/>
+<br>
