@@ -1,5 +1,17 @@
 ## ListView<br>
 
+### 下拉刷新<br>
+
+
+https://github.com/jsdf/react-native-refreshable-listview<br>
+解释：Deprecated. A pull-to-refresh ListView which shows a loading spinner while your data reloads
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67" width="22%"/>
+<br>
+
+
+### 拖拽<br>
 
 https://github.com/deanmcpherson/react-native-sortable-listview<br>
 解释：Drag drop capable wrapper of ListView for React Native
