@@ -1,5 +1,6 @@
 #  动画/互动特效
 
+
 ## 强交互组件(半成品)<br>
 
 项目名：react-native-interactable<br>
@@ -17,5 +18,12 @@ git地址：https://github.com/wix/react-native-interactable<br>
 git地址：https://github.com/wix/react-native-action-view<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/MortimerGoro/MGSwipeTableCell/master/readme-assets/static.gif" width="30%"/>
+<br>
+
+### 启动跳转页<br>
+项目名：react-native-splash-screen<br>
+git地址：https://github.com/crazycodeboy/react-native-splash-screen<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif" width="30%"/>
 <br>
 
