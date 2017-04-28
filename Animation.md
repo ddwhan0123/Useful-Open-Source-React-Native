@@ -24,6 +24,6 @@ git地址：https://github.com/wix/react-native-action-view<br>
 项目名：react-native-splash-screen<br>
 git地址：https://github.com/crazycodeboy/react-native-splash-screen<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif" width="24%"/>
 <br>
 
