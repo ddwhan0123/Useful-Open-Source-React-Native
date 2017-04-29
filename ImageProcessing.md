@@ -8,6 +8,14 @@ git地址：https://github.com/jondot/react-native-group-image<br>
 <img src="https://github.com/jondot/react-native-group-image/raw/master/assets/groupimage.png" width="30%"/>
 <br>
 
+### 图片浏览 
+
+项目名：react-native-image-viewer<br>
+git地址：https://github.com/ascoders/react-native-image-viewer<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/7970947/21086300/388dedfc-c056-11e6-955e-0a2a0b541f7f.gif" width="25%"/>
+<br>
+
 ### 高斯模糊<br>
 
 
@@ -23,7 +31,7 @@ A component for UIVisualEffectView's blur and vibrancy effect on iOS, and 500px-
 项目名：500px-android-blur<br>
 git地址：https://github.com/500px/500px-android-blur<br>
 预览:<br>
-<img src="https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width="47%"/>
+<img src="https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width="47%"/><br>
 解释:
 <br>
 Android Blurring View 
