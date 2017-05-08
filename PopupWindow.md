@@ -29,3 +29,10 @@ https://github.com/jeanregisser/react-native-popover<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/jeanregisser/react-native-popover/master/Screenshots/animated.gif" width="25%"/>
 <br>
+
+https://github.com/maxs15/react-native-modalbox<br>
+解释：A < Popover /> component for react-native
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/d4a496a80e4159490d873dcc37e93b71d6da7e0b/687474703a2f2f692e696d6775722e636f6d2f3358554c4c74382e676966" width="25%"/>
+<br>
