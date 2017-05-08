@@ -1,5 +1,14 @@
 ## 集成ui组件群<br>
 
+项目名：react-native-CountDowntimer<br>
+git地址：https://github.com/jackuhan/react-native-CountDowntimer<br>
+预览:<br>
+<img src="https://github.com/jackuhan/react-native-CountDowntimer/raw/master/art.png" width="30%"/>
+<br>
+描述:<br>
+react native countdown timer component which Only needs a end time.倒计时控件
+<br>
+
 项目名：react-native-ui-lib<br>
 git地址：https://github.com/wix/react-native-ui-lib<br>
 预览:<br>
