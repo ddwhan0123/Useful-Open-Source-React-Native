@@ -45,7 +45,11 @@ git地址：https://github.com/zbtang/React-Native-ViewPager<br>
 <img src="https://github.com/zbtang/React-Native-ViewPager/raw/master/imgs/titleIndicator.gif" width="23%"/>
 <br>
 
-
+项目名：react-swipeable-views<br>
+git地址：https://github.com/oliviertassinari/react-swipeable-views<br>
+预览:<br>
+<img src="https://github.com/oliviertassinari/react-swipeable-views/raw/master/docs/platformAndroid.gif" width="23%"/>
+<br>
 
 ## 类ViewPager的混合控件<br>
 
