@@ -37,6 +37,15 @@ Custom version of the IOS SegmentedControl component
 <br>
 
 
+项目名：react-native-tab-view<br>
+git地址：https://github.com/react-native-community/react-native-tab-view<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/satya164/react-native-tab-view/master/demo/demo.gif" width="26%"/>
+<br>
+描述:<br>
+A cross-platform Tab View component for React Native
+<br>
+
 ## 全功能ViewPager<br>
 
 项目名：React-Native-ViewPager<br>
