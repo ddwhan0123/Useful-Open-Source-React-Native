@@ -3,10 +3,29 @@
 
 
 
+
+项目名：react-native-textinput-effects<br>
+git地址：https://github.com/halilb/react-native-textinput-effects<br>
+预览:<br>
+<img src="https://github.com/halilb/react-native-textinput-effects/raw/master/screenshots/full.gif" width="26%"/>
+<br>
+描述:<br>
+Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
+<br>
+
+项目名：input-number<br>
+git地址：https://github.com/react-component/input-number<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/13f8444fd3503162e20dc26d603910c640e53c03/68747470733a2f2f7a6f732e616c697061796f626a656374732e636f6d2f726d73706f7274616c2f646f6a76574c7a54536845665341552e706e67" width="26%"/>
+<br>
+描述:<br>
+React Input Number(web & react-native) 
+<br>
+
 项目名：react-native-tag-input<br>
 git地址：https://github.com/jwohlfert23/react-native-tag-input<br>
 预览:<br>
-<img src="https://github.com/jwohlfert23/react-native-tag-input/raw/master/example.png" width="23%"/>
+<img src="https://github.com/jwohlfert23/react-native-tag-input/raw/master/example.png" width="26%"/>
 <br>
 描述:<br>
 A simple React Native component that creates an input for tags, emails, etc.
