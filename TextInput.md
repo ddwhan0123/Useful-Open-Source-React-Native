@@ -1,6 +1,26 @@
 # TextInput相关
 
 
+
+
+项目名：react-native-tag-input<br>
+git地址：https://github.com/jwohlfert23/react-native-tag-input<br>
+预览:<br>
+<img src="https://github.com/jwohlfert23/react-native-tag-input/raw/master/example.png" width="23%"/>
+<br>
+描述:<br>
+A simple React Native component that creates an input for tags, emails, etc.
+<br>
+
+项目名：react-native-credit-card-input<br>
+git地址：https://github.com/sbycrosz/react-native-credit-card-input<br>
+预览:<br>
+<img src="https://github.com/sbycrosz/react-native-credit-card-input/raw/master/preview-ios.gif?raw=true" width="23%"/>
+<br>
+描述:<br>
+Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
+<br>
+
 项目名：react-native-credit-card-input<br>
 git地址：https://github.com/sbycrosz/react-native-credit-card-input<br>
 预览:<br>
