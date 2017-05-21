@@ -25,6 +25,15 @@ git地址：https://github.com/race604/react-native-viewpager<br>
 
 ## tab切换<br>
 
+项目名：react-native-tabbed-view-pager-android<br>
+git地址：https://github.com/madhu314/react-native-tabbed-view-pager-android<br>
+预览:<br>
+<img src="https://github.com/madhu314/react-native-tabbed-view-pager-android/raw/master/assets/tabbedviewpager.gif" width="25%"/>
+<br>
+描述:<br>
+Custom version of the IOS SegmentedControl component
+<br>
+
 项目名：react-native-app-intro<br>
 git地址：https://github.com/wix/react-native-custom-segmented-control<br>
 预览:<br>
