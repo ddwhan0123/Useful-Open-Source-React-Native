@@ -48,6 +48,13 @@ A cross-platform Tab View component for React Native
 
 ## 全功能ViewPager<br>
 
+
+项目名：react-native-paged-scroll-view<br>
+git地址：https://github.com/rreusser/react-native-paged-scroll-view<br>
+预览:<br>
+<img src="https://github.com/rreusser/react-native-paged-scroll-view/raw/master/example.gif" width="23%"/>
+<br>
+
 项目名：React-Native-ViewPager<br>
 git地址：https://github.com/zbtang/React-Native-ViewPager<br>
 预览:<br>
