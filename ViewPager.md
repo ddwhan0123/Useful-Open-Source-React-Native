@@ -17,6 +17,12 @@ git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
 ## banner<br>
 
 
+项目名：react-native-pages<br>
+git地址：https://github.com/n4kz/react-native-pages<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/2055622/25063699/68d6914e-21f4-11e7-81fe-b72d8e003530.gif" width="23%"/>
+<br>
+
 项目名：react-native-viewpager<br>
 git地址：https://github.com/race604/react-native-viewpager<br>
 预览:<br>
