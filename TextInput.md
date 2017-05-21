@@ -20,3 +20,9 @@ git地址：https://github.com/l-urence/react-native-autocomplete-input<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/l-urence/react-native-autocomplete-input/master/example.gif" width="23%"/>
 <br>
+
+项目名：react-native-phone-input<br>
+git地址：https://github.com/thegamenicorus/react-native-phone-input<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/21040043/22661097/aa41852e-ecd6-11e6-84da-375cbe05020f.gif" width="23%"/>
+<br>
