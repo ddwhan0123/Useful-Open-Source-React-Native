@@ -1,5 +1,15 @@
 # TextInput相关
 
+
+项目名：react-native-credit-card-input<br>
+git地址：https://github.com/sbycrosz/react-native-credit-card-input<br>
+预览:<br>
+<img src="https://github.com/sbycrosz/react-native-credit-card-input/raw/master/preview-ios.gif?raw=true" width="23%"/>
+<br>
+描述:<br>
+Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today!
+<br>
+
 项目名：react-native-autogrow-textinput<br>
 git地址：https://github.com/wix/react-native-autogrow-textinput<br>
 预览:<br>
