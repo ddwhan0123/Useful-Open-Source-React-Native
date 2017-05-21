@@ -4,6 +4,24 @@
 
 
 
+项目名：react-native-telephone-input<br>
+git地址：https://github.com/kundigo/react-native-telephone-input<br>
+预览:<br>
+<img src="https://github.com/kundigo/react-native-telephone-input/raw/master/React_Native_Telephone_Input_Example.gif" width="26%"/>
+<br>
+描述:<br>
+React Native Telephone Input
+<br>
+
+项目名：react-native-passwordInput<br>
+git地址：https://github.com/chenchunyong/react-native-passwordInput<br>
+预览:<br>
+<img src="https://github.com/chenchunyong/react-native-passwordInput/raw/master/password.png" width="26%"/>
+<br>
+描述:<br>
+采用React Native开发，仿支付宝付款密码输入框
+<br>
+
 项目名：react-native-textinput-effects<br>
 git地址：https://github.com/halilb/react-native-textinput-effects<br>
 预览:<br>
