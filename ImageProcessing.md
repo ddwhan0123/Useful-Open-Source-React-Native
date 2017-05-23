@@ -1,5 +1,15 @@
 ## 图片选择器/图片剪裁/图片加载加载 相关:<br>
 
+### 图片 特殊排列<br>
+
+
+项目名：react-native-card-media<br>
+git地址：https://github.com/dondoko-susumu/react-native-card-media<br>
+预览:<br>
+<img src="https://github.com/dondoko-susumu/react-native-card-media/raw/master/images/five.png" width="30%"/>
+<br>
+
+
 ### 圆角图片控件 <br>
 
 项目名：react-native-group-image<br>
@@ -30,7 +40,7 @@ git地址：https://github.com/jeanpan/react-native-camera-roll-picker<br>
 项目名：react-native-blur<br>
 git地址：https://github.com/react-native-community/react-native-blur<br>
 预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/139536/25066337/3c9d44c0-224d-11e7-8ca6-028478bf4a7d.gif" width="26%"/>
+<img src="https://cloud.githubusercontent.com/assets/139536/25066337/3c9d44c0-224d-11e7-8ca6-028478bf4a7d.gif" width="26%"/><br>
 解释:
 <br>
 A component for UIVisualEffectView's blur and vibrancy effect on iOS, and 500px-android-blur on Android.
