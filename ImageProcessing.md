@@ -29,6 +29,13 @@ git地址：https://github.com/ascoders/react-native-image-viewer<br>
 ### 图片选择器 
 
 
+
+项目名：image-picker-react-native<br>
+git地址：https://github.com/Leo-Lang/image-picker-react-native<br>
+预览:<br>
+<img src="https://github.com/Leo-Lang/image-picker-react-native/raw/master/docs/imagePicker.gif" width="25%"/>
+<br>
+
 项目名：react-native-mediapicker<br>
 git地址：https://github.com/stoffern/react-native-mediapicker<br>
 预览:<br>
