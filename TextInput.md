@@ -3,6 +3,14 @@
 
 
 
+项目名：react-native-floating-label-text-input<br>
+git地址：https://github.com/eyaleizenberg/react-native-floating-label-text-input<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/c6e6cc357ddace4568caa73feb83ccb24ec34990/687474703a2f2f692e696d6775722e636f6d2f356464644e69782e676966" width="26%"/>
+<br>
+描述:<br>
+A React Native component for floating label text input
+<br>
 
 项目名：react-native-telephone-input<br>
 git地址：https://github.com/kundigo/react-native-telephone-input<br>
