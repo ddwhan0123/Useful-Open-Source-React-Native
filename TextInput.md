@@ -3,6 +3,15 @@
 
 
 
+项目名：react-native-text-input-mask<br>
+git地址：https://github.com/react-native-community/react-native-text-input-mask<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/fa39166ee939d1b4de41dafe9cf63652d5b2e011/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f72656163742d6e61746976652d746578742d696e7075742d6d61736b2f72656163742d6e61746976652d746578742d696e7075742d6d61736b2d696f732e676966" width="26%"/>
+<br>
+描述:<br>
+Text input mask for React Native, Android and iOS
+<br>
+
 项目名：react-native-floating-label-text-input<br>
 git地址：https://github.com/eyaleizenberg/react-native-floating-label-text-input<br>
 预览:<br>
