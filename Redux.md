@@ -18,3 +18,9 @@ git地址：https://github.com/redux-offline-team/redux-offline<br>
 预览:<br>
 <img src="https://github.com/redux-offline-team/redux-offline/raw/master/docs/logo.png" width="30%"/>
 <br>
+
+项目名：redux-logger<br>
+git地址：https://github.com/evgenyrodionov/redux-logger<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/73b5dc54ec615f18746e8472e02d130f79a3cf9f/687474703a2f2f692e696d6775722e636f6d2f43674175486c452e706e67" width="80%"/>
+<br>
