@@ -1,4 +1,4 @@
-## CardView
+## CardView相关<br>
 https://github.com/meteor-factory/react-native-tinder-swipe-cards<br>
 预览:<br>
 <img src="https://github.com/meteor-factory/react-native-tinder-swipe-cards/raw/master/screenshots/swiper-cards.gif" width="30%"/>
