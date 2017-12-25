@@ -20,10 +20,9 @@ git地址：https://github.com/wix/react-native-action-view<br>
 <img src="https://raw.githubusercontent.com/MortimerGoro/MGSwipeTableCell/master/readme-assets/static.gif" width="30%"/>
 <br>
 
-### 启动跳转页<br>
-项目名：react-native-splash-screen<br>
-git地址：https://github.com/crazycodeboy/react-native-splash-screen<br>
+### 列表动画<br>
+项目名：rn-placeholder<br>
+git地址：https://github.com/mfrachet/rn-placeholder<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif" width="24%"/>
+<img src="https://camo.githubusercontent.com/3ee614461a41c41b54b89f56431149817f62d3bc/68747470733a2f2f696d67342e686f7374696e67706963732e6e65742f706963732f323231383539616e64726f69642e676966" width="25%"/>
 <br>
-
