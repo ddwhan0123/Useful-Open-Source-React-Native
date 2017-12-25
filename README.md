@@ -11,6 +11,9 @@
 ### 更新时间:2017-12-21<br>
 
 
+##  Text<br>
+## [点击跳转 Text.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Text.md)
+
 
 ##  CardView<br>
 ## [点击跳转 CardView.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/CardView.md)
