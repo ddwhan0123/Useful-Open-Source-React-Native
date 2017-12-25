@@ -11,6 +11,9 @@
 ### 更新时间:2017-12-21<br>
 
 
+
+##  Chart<br>
+## [点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Chart.md)
 ##  Text<br>
 ## [点击跳转 Text.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Text.md)
 
