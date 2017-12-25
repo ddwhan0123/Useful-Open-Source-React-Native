@@ -27,3 +27,12 @@ https://github.com/deanmcpherson/react-native-sortable-listview<br>
 预览:<br>
 <img src="https://raw.githubusercontent.com/deanmcpherson/react-native-sortable-listview/master/demo.gif" width="22%"/>
 <br>
+
+
+### 性能优化<br>
+https://github.com/bolan9999/react-native-largelist<br>
+解释：A best performance large list component for React Native.
+<br>
+预览:<br>
+<img src="https://github.com/bolan9999/react-native-largelist/raw/master/readme_resources/example.gif" width="22%"/>
+<br>
