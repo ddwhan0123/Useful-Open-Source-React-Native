@@ -1,6 +1,15 @@
 ## PopupWindow
 
 
+
+
+https://github.com/doomsower/react-native-modal-popover<br>
+解释：React-Native pure JS popover that uses Modal
+<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/doomsower/react-native-modal-popover/master/gifs/android.gif" width="25%"/>
+<br>
+
 https://github.com/Elyx0/react-native-document-picker<br>
 解释：Document Picker for React Native using Document Providers
 <br>
