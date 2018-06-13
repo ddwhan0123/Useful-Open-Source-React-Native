@@ -13,3 +13,11 @@ https://github.com/react-native-community/react-native-side-menu<br>
 <br>
 解释：Side menu component for React Native
 <br>
+
+
+https://github.com/Ramotion/react-native-circle-menu<br>
+预览:<br>
+<img src="https://github.com/Ramotion/react-native-circle-menu/raw/master/preview.gif" width="33%"/>
+<br>
+解释：CircleMenu is a simple, elegant UI menu with a circular layout and material design animations
+<br>
