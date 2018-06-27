@@ -2,6 +2,17 @@
 
 
 
+
+
+项目名：react-native-nba-app<br>
+git地址：https://github.com/wwayne/react-native-nba-app<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/5305874/12422631/e33d57ca-bf02-11e5-8bdf-e10df77fc1fb.gif" width="23%"/>
+<br>
+描述:<br>
+This is why we play
+<br>
+
 项目名：react-native-Gank<br>
 git地址：https://github.com/wangdicoder/react-native-Gank<br>
 预览:<br>
