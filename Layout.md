@@ -1,5 +1,12 @@
 ## 布局相关<br>
 
+https://github.com/react-native-community/react-native-linear-gradient<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/react-native-community/react-native-linear-gradient/master/images/example.png" width="40%"/>
+<br>
+解释：A <LinearGradient /> component for react-native
+<br>
+
 https://github.com/Aleksion/react-native-flexview<br>
 预览:<br>
 <img src="https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png" width="20%"/>
