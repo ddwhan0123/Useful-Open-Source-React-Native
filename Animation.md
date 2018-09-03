@@ -20,9 +20,15 @@ git地址：https://github.com/wix/react-native-action-view<br>
 <img src="https://raw.githubusercontent.com/MortimerGoro/MGSwipeTableCell/master/readme-assets/static.gif" width="30%"/>
 <br>
 
+项目名：react-native-swipeout<br>
+git地址：https://github.com/dancormier/react-native-swipeout<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/b48b5dfb4a8ca88cb1408a9a0ff5aecd8f92ff4b/687474703a2f2f692e696d6775722e636f6d2f6f43514c4e46432e676966" width="30%"/>
+<br>
+
 ### 列表动画<br>
 项目名：rn-placeholder<br>
 git地址：https://github.com/mfrachet/rn-placeholder<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/3ee614461a41c41b54b89f56431149817f62d3bc/68747470733a2f2f696d67342e686f7374696e67706963732e6e65742f706963732f323231383539616e64726f69642e676966" width="25%"/>
+<img src="https://github.com/mfrachet/rn-placeholder/raw/master/book/placeholder.gif" width="25%"/>
 <br>
