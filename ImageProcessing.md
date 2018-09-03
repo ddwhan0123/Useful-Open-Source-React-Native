@@ -76,3 +76,16 @@ git地址：https://github.com/500px/500px-android-blur<br>
 <br>
 Android Blurring View 
 <br>
+
+
+
+
+### 图片集成库<br>
+项目名：react-native-fast-image<br>
+git地址：https://github.com/DylanVann/react-native-fast-image<br>
+预览:<br>
+<img src="https://github.com/DylanVann/react-native-fast-image/raw/master/docs/assets/priority.gif" width="27%"/><br>
+解释:
+<br>
+FastImage, performant React Native image component.
+<br>
