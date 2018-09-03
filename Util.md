@@ -4,7 +4,11 @@ https://github.com/rebeccahughes/react-native-device-info<br>
 解释：Device Information for React Native iOS and Android
 <br>
 
-常用公共模块<br>
+## 常用公共模块<br>
+
+项目名：react-native-permissions<br>
+git地址：https://github.com/yonahforst/react-native-permissions<br>
+解释：Check and request user permissions in ReactNative (iOS and Android)
 
 项目名：react-native-share<br>
 git地址：https://github.com/EstebanFuentealba/react-native-share<br>
