@@ -24,6 +24,12 @@ git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
 ## banner<br>
 
 
+项目名：react-native-snap-carousel<br>
+git地址：https://github.com/archriss/react-native-snap-carousel<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/7590ec7e6b705a6e8e381397247d576c6db72147/68747470733a2f2f692e696d6775722e636f6d2f653157625a63752e676966" width="23%"/>
+<br>
+
 项目名：react-native-pages<br>
 git地址：https://github.com/n4kz/react-native-pages<br>
 预览:<br>
@@ -40,15 +46,6 @@ git地址：https://github.com/race604/react-native-viewpager<br>
 
 
 
-
-项目名：react-native-scrollable-tab-view<br>
-git地址：https://github.com/skv-headless/react-native-scrollable-tab-view<br>
-预览:<br>
-<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo_images/demo-fb.gif" width="30%"/>
-<br>
-描述:<br>
-Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar
-<br>
 
 项目名：react-native-app-intro<br>
 git地址：https://github.com/wix/react-native-custom-segmented-control<br>
