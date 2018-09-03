@@ -9,6 +9,13 @@ https://github.com/droidwolf/react-native-RealRecyclerView<br>
 解释：react-native-RealRecyclerView on android
 <br>
 
+https://github.com/FaridSafi/react-native-gifted-listview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/FaridSafi/react-native-gifted-listview/master/Captures/android_refresh_page_demo.gif" width="30%"/>
+<br>
+解释：ListView with pull-to-refresh and infinite scrolling for Android and iOS React-Native apps
+<br>
+
 
 ## 特殊效果<br>
 https://github.com/mfrachet/rn-placeholder<br>
