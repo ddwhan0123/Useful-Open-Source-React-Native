@@ -18,9 +18,12 @@ https://github.com/FaridSafi/react-native-gifted-listview<br>
 
 
 ## 特殊效果<br>
-https://github.com/mfrachet/rn-placeholder<br>
+https://github.com/i6mi6/react-native-parallax-scroll-view<br>
 预览:<br>
-<img src="https://github.com/mfrachet/rn-placeholder/raw/master/book/placeholder.gif" width="28%"/>
+<img src="https://github.com/i6mi6/react-native-parallax-scroll-view/raw/master/demo.ios.0.17.2.gif" width="28%"/>
 <br>
-解释： Display some placeholder stuff before rendering your text or media content in React Native
+解释： A ScrollView-like component with parallax and sticky header support.
 <br>
+
+
+
