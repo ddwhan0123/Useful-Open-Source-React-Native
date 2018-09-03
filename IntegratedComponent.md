@@ -11,14 +11,6 @@
 UI Components Library for React Native
 <br>
 
-项目名：rn-weui<br>
-项目地址：https://github.com/maskzh/rn-weui<br>
-预览:<br>
-<img src="https://camo.githubusercontent.com/773e6184a6edb25462d800134f1624effed6a473/687474703a2f2f656c6c696f74742e62302e7570616979756e2e636f6d2f696d672f3761316335313438393321736d" width="23%"/>
-<br>
-描述:<br>
-react native weui
-<br>
 
 项目名：introduce-cn<br>
 项目地址：https://mobile.ant.design/docs/react/introduce-cn<br>
