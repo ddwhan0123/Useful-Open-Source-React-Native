@@ -3,6 +3,13 @@
 
 
 
+https://github.com/sohobloo/react-native-modal-dropdown<br>
+解释：A react-native dropdown/picker/selector component for both Android & iOS.
+<br>
+预览:<br>
+<img src="https://github.com/sohobloo/react-native-modal-dropdown/raw/master/docs/demo_1.gif?raw=true" width="30%"/>
+<br>
+
 https://github.com/doomsower/react-native-modal-popover<br>
 解释：React-Native pure JS popover that uses Modal
 <br>
