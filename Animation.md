@@ -32,3 +32,9 @@ git地址：https://github.com/mfrachet/rn-placeholder<br>
 预览:<br>
 <img src="https://github.com/mfrachet/rn-placeholder/raw/master/book/placeholder.gif" width="25%"/>
 <br>
+
+项目名：react-native-foldview<br>
+git地址：https://github.com/jmurzy/react-native-foldview<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jmurzy/react-native-foldview/master/.github/screenshot.gif" width="25%"/>
+<br>
