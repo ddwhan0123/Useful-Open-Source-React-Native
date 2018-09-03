@@ -20,6 +20,13 @@ git地址：https://github.com/jondot/react-native-group-image<br>
 
 ### 图片浏览 
 
+
+项目名：react-native-lightbox<br>
+git地址：https://github.com/oblador/react-native-lightbox<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/378279/9074360/16eac5d6-3b09-11e5-90af-a69980e9f4be.gif" width="25%"/>
+<br>
+
 项目名：react-native-image-viewer<br>
 git地址：https://github.com/ascoders/react-native-image-viewer<br>
 预览:<br>
