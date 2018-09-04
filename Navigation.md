@@ -2,6 +2,14 @@
 
 
 
+项目名：react-native-tabs<br>
+git地址：https://github.com/aksonov/react-native-tabs<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/1321329/10188030/adf5532c-675c-11e5-8447-227ec38fa24f.gif" width="25%"/>
+<br>
+描述:<br>
+React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)<br>
+
 项目名：react-native-tab-navigator<br>
 git地址：https://github.com/happypancake/react-native-tab-navigator<br>
 预览:<br>
