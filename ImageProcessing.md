@@ -116,3 +116,12 @@ git地址：https://github.com/ladas-larry/react-native-responsive-image<br>
 <br>
 Responsive image component for React Native
 <br>
+
+项目名：react-native-responsive-image<br>
+git地址：https://github.com/brh55/react-native-hero<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/6020066/24824103/0f759968-1bbb-11e7-895f-ab4ac50dbcd4.png" width="47%"/><br>
+解释:
+<br>
+ A super duper easy hero unit react-native component with support for dynamic image, dynamic sizing, color overlays, and more
+<br>
