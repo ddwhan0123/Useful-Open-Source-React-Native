@@ -14,3 +14,11 @@ https://github.com/wix/react-native-calendars<br>
 <br>
 解释：React Native Calendar Components
 <br>
+
+
+https://github.com/Tinysymphony/react-native-calendar-select<br>
+预览:<br>
+<img src="https://github.com/Tinysymphony/react-native-calendar-select/raw/master/GIF/ios-zh.gif" width="25%"/>
+<br>
+解释：A component to select period from calendar like Airbnb
+<br>
