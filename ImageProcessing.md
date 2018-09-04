@@ -18,6 +18,12 @@ git地址：https://github.com/jondot/react-native-group-image<br>
 <img src="https://github.com/jondot/react-native-group-image/raw/master/assets/groupimage.png" width="30%"/>
 <br>
 
+项目名：react-native-fit-image<br>
+git地址：https://github.com/huiseoul/react-native-fit-image<br>
+预览:<br>
+<img src="https://github.com/originerd/react-native-fit-image-example/raw/master/fit_image_example_portrait.gif" width="25%"/>
+<br>
+
 ### 图片浏览 
 
 
