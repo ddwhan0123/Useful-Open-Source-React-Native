@@ -1,6 +1,12 @@
 ## PopupWindow
 
 
+https://github.com/xgfe/react-native-picker-xg<br>
+解释：react native Picker component for both Android and iOS based on pure JavaScript [for the old realize, you can use the version 0.0.8]
+<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/lulutia/images/master/react-native-components/Screen-Capture-50.gif" width="40%"/>
+<br>
 
 
 https://github.com/chirag04/react-native-tooltip<br>
