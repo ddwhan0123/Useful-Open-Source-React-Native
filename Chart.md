@@ -13,3 +13,11 @@ https://github.com/tomauty/react-native-chart<br>
 <br>
 解释：Add line, area, pie, and bar charts to your React Native app 
 <br>
+
+https://github.com/capitalone/react-native-pathjs-charts<br>
+预览:<br>
+<img src="https://github.com/capitalone/react-native-pathjs-charts/wiki/images/chart-screenshots.png" width="60%"/>
+<br>
+解释：Android and iOS charts based on react-native-svg and paths-js
+<br>
+
