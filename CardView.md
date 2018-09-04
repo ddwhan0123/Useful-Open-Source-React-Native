@@ -5,3 +5,10 @@ https://github.com/meteor-factory/react-native-tinder-swipe-cards<br>
 <br>
 解释：Tinder-like swipe cards for your React Native app
 <br>
+
+
+项目名：react-native-cardview<br>
+git地址：https://github.com/Kishanjvaghela/react-native-cardview<br>
+预览:<br>
+<img src="https://github.com/Kishanjvaghela/react-native-cardview/raw/master/docs/Example-Snapshot.png" width="62%"/>
+<br>
