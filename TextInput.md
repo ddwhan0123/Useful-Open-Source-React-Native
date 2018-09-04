@@ -1,6 +1,13 @@
 # TextInput相关
 
-
+项目名：RCTAutoComplete<br>
+git地址：https://github.com/nulrich/RCTAutoComplete<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/nulrich/RCTAutoComplete/master/demo.gif" width="26%"/>
+<br>
+描述:<br>
+React Native Component for MLPAutoCompleteTextField
+<br>
 
 
 项目名：react-native-code-verification<br>
