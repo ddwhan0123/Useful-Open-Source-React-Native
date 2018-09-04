@@ -3,6 +3,13 @@
 
 https://github.com/instea/react-native-popup-menu<br>
 预览:<br>
+<img src="https://camo.githubusercontent.com/cfcf06aedd8f8ede4830a06e3809d0f9d39677b5/687474703a2f2f692e67697068792e636f6d2f336f365a7436684e484f64336b56783461592e676966" width="33%"/>
+<br>
+解释：Path-esque circular action menu inspired by CircularFloatingActionMenu.
+<br>
+
+https://github.com/instea/react-native-popup-menu<br>
+预览:<br>
 <img src="https://github.com/instea/react-native-popup-menu/raw/master/android.demo.gif" width="23%"/>
 <br>
 解释：Popup menu component for React Native
