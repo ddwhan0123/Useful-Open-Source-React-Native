@@ -40,6 +40,12 @@ git地址：https://github.com/dancormier/react-native-swipeout<br>
 <br>
 
 ### 列表动画<br>
+项目名：react-native-shimmer-placeholder<br>
+git地址：https://github.com/tomzaku/react-native-shimmer-placeholder<br>
+预览:<br>
+<img src="https://github.com/tomzaku/react-native-shimmer-placeholder/raw/master/example.gif?raw=true" width="29%"/>
+<br>
+
 项目名：rn-placeholder<br>
 git地址：https://github.com/mfrachet/rn-placeholder<br>
 预览:<br>
