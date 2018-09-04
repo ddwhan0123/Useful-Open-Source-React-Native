@@ -16,7 +16,8 @@
 ## [点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Chart.md)
 ##  Text<br>
 ## [点击跳转 Text.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Text.md)
-
+##  Slider<br>
+## [点击跳转 Slider.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Slider.md)
 
 ##  CardView<br>
 ## [点击跳转 CardView.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/CardView.md)
