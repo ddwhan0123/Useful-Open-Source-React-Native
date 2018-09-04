@@ -3,10 +3,10 @@
 
 ### 条状进度条
 
-项目名：react-native-slider<br>
-git地址：https://github.com/jeanregisser/react-native-slider<br>
+项目名：react-native-progress-bar<br>
+git地址：https://github.com/lwansbrough/react-native-progress-bar<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/jeanregisser/react-native-slider/master/Screenshots/basic@2x.png" width="25%"/>
+<img src="https://camo.githubusercontent.com/423650578c259e102e9d82e601043c3c04e521b6/68747470733a2f2f692e696d6775722e636f6d2f4547756670707a2e676966" width="25%"/>
 <br>
 
 
