@@ -89,3 +89,14 @@ git地址：https://github.com/DylanVann/react-native-fast-image<br>
 <br>
 FastImage, performant React Native image component.
 <br>
+
+
+### 特殊图片功能<br>
+项目名：react-native-responsive-image<br>
+git地址：https://github.com/ladas-larry/react-native-responsive-image<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/Dharmoslap/react-native-responsive-image/master/retina.png" width="27%"/><br>
+解释:
+<br>
+Responsive image component for React Native
+<br>
