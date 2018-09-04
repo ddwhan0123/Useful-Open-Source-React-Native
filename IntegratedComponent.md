@@ -58,3 +58,12 @@ git地址：https://github.com/sbycrosz/react-native-credit-card-input<br>
 描述:<br>
 Easy, cross-platform credit-card input for your React Native Project! Start accepting payment 💰 in your app today
 <br>
+
+项目名：react-native-step-indicator<br>
+git地址：https://github.com/24ark/react-native-step-indicator<br>
+预览:<br>
+<img src="https://github.com/24ark/react-native-step-indicator/raw/master/art/HorizontalStepIndicator.gif" width="25%"/>
+<br>
+描述:<br>
+A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
+<br>
