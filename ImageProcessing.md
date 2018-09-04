@@ -112,7 +112,7 @@ ScrollView with an image in header which becomes a navbar
 项目名：react-native-responsive-image<br>
 git地址：https://github.com/ladas-larry/react-native-responsive-image<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/Dharmoslap/react-native-responsive-image/master/retina.png" width="57%"/><br>
+<img src="https://raw.githubusercontent.com/Dharmoslap/react-native-responsive-image/master/retina.png" width="27%"/><br>
 解释:
 <br>
 Responsive image component for React Native
