@@ -1,6 +1,11 @@
 ## Map<br>
 
 
+项目名：react-native-progressive-input<br>
+git地址：https://github.com/khaiql/react-native-progressive-input<br>
+预览:<br>
+<img src="https://github.com/khaiql/react-native-progressive-input/raw/master/screenshot.gif" width="23%"/>
+
 项目名：react-native-maps<br>
 git地址：https://github.com/airbnb/react-native-maps<br>
 预览:<br>
