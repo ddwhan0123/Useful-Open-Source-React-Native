@@ -13,6 +13,16 @@ https://github.com/localz/react-native-searchbar<br>
 ## HeadView<br>
 
 
+
+
+https://github.com/monterosalondon/react-native-parallax-scroll<br>
+预览:<br>
+<img src="https://github.com/monterosalondon/react-native-parallax-scroll/raw/master/demo/ios-demo-2.gif" width="23%"/>
+<br>
+解释：Parallax scroll view for react-native
+<br>
+
+
 https://github.com/lelandrichardson/react-native-parallax-view<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966" width="23%"/>
