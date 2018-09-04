@@ -3,6 +3,13 @@
 
 ## 强交互组件(半成品)<br>
 
+项目名：react-native-display<br>
+git地址：https://github.com/sundayhd/react-native-display<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/9949238/22396351/f1452940-e55f-11e6-8e9b-ae26396c2051.gif" width="22%"/>
+<br>
+
+
 项目名：react-native-interactable<br>
 git地址：https://github.com/wix/react-native-interactable<br>
 预览:<br>
@@ -11,7 +18,7 @@ git地址：https://github.com/wix/react-native-interactable<br>
 <img src="https://camo.githubusercontent.com/46982ce8c39a7e73c021472c2c16a9bfbb73ea58/687474703a2f2f692e696d6775722e636f6d2f7048366f4235442e676966" width="22%"/>
 <br>
 
-## 强交互组件(成品)<br>
+
 
 ### 滑动删除<br>
 项目名：react-native-action-view<br>
