@@ -97,3 +97,9 @@ git地址：https://github.com/24ark/react-native-step-indicator<br>
 预览:<br>
 <img src="https://github.com/24ark/react-native-step-indicator/raw/master/art/HorizontalStepIndicator.gif" width="23%"/>
 <br>
+
+项目名：react-native-swiper-animated<br>
+git地址：https://github.com/chitezh/react-native-swiper-animated<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/chitezh/react-native-swiper-animated/master/examples/shots/leaf_stack.gif" width="23%"/>
+<br>
