@@ -3,6 +3,14 @@
 
 
 
+https://github.com/prscX/react-native-popover-menu<br>
+预览:<br>
+<img src="https://github.com/zawadz88/MaterialPopupMenu/raw/master/art/sample_sections_light.png" width="26%"/>
+<br>
+解释：
+React Native: Native Popover Menu
+<br>
+
 https://github.com/SoftZen/react-native-bouncy-drawer<br>
 预览:<br>
 <img src="https://github.com/SoftZen/react-native-bouncy-drawer/raw/master/resources/example.gif" width="26%"/>
