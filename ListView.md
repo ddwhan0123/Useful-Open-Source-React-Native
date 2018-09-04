@@ -43,5 +43,5 @@ https://github.com/thegamenicorus/react-native-timeline-listview<br>
 解释：Timeline component for React Native App 
 <br>
 预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/21040043/24750025/8c8d044e-1aef-11e7-8fd7-7d64431af7e4.png" width="22%"/>
+<img src="https://cloud.githubusercontent.com/assets/21040043/24750025/8c8d044e-1aef-11e7-8fd7-7d64431af7e4.png" width="32%"/>
 <br>
