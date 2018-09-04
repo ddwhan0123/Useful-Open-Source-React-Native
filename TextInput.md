@@ -3,6 +3,15 @@
 
 
 
+项目名：react-native-code-verification<br>
+git地址：https://github.com/danchokobo/react-native-code-verification<br>
+预览:<br>
+<img src="https://github.com/danchokobo/react-native-code-verification/raw/master/screenshots/blue.png?raw=true" width="26%"/>
+<br>
+描述:<br>
+Simple UI for pincode verification
+<br>
+
 项目名：react-native-md-textinput<br>
 git地址：https://github.com/evblurbs/react-native-md-textinput<br>
 预览:<br>
