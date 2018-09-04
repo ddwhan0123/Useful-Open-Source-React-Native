@@ -2,6 +2,13 @@
 
 
 
+https://github.com/robcalcroft/react-native-in-app-notification<br>
+解释：Customisable in-app notification component for React Native
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/e24a2862c3387ef8a4bcbf9e8ad2a52f4bca22a4/687474703a2f2f692e696d6775722e636f6d2f3350494c634b672e676966" width="32%"/>
+<br>
+
 https://github.com/crazycodeboy/react-native-easy-toast<br>
 解释：A react native module to show toast like android, it works on iOS and Android
 <br>
