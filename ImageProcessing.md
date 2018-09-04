@@ -100,14 +100,6 @@ FastImage, performant React Native image component.
 ### 特殊图片功能<br>
 
 
-项目名：react-native-image-header-scroll-view<br>
-git地址：https://github.com/bamlab/react-native-image-header-scroll-view<br>
-预览:<br>
-<img src="https://github.com/bamlab/react-native-image-header-scroll-view/raw/master/readmeAssets/demoIos.gif" width="27%"/><br>
-解释:
-<br>
-ScrollView with an image in header which becomes a navbar
-<br>
 
 项目名：react-native-responsive-image<br>
 git地址：https://github.com/ladas-larry/react-native-responsive-image<br>
