@@ -3,6 +3,12 @@
 
 ## 强交互组件(半成品)
 
+项目名：react-native-slot-machine<br>
+git地址：https://github.com/atlanteh/react-native-slot-machine<br>
+预览:<br>
+<img src="https://user-images.githubusercontent.com/3952700/30516749-919f13e6-9b50-11e7-9e37-c852234e1e58.gif" width="22%"/>
+<br>
+
 项目名：react-native-pulse-loader<br>
 git地址：https://github.com/mastermoo/react-native-pulse-loader<br>
 预览:<br>
