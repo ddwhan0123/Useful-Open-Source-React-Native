@@ -1,6 +1,13 @@
 ### 多媒体相关<br>
 
 
+https://github.com/phuochau/react-native-beautiful-video-recorder<br>
+预览:<br>
+<img src="https://github.com/phuochau/react-native-beautiful-video-recorder/raw/master/Screenshot.PNG" width="26%"/>
+<br>
+解释：The video recorder component that extends from react-native-camera. It works for both iOS & Android.
+<br>
+
 https://github.com/ldn0x7dc/react-native-media-kit<br>
 预览:<br>
 <img src="https://github.com/ldn0x7dc/react-native-media-kit/raw/master/Demo/demo.gif" width="26%"/>
