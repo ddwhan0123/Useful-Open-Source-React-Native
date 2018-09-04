@@ -2,6 +2,14 @@
 
 
 
+https://github.com/garrettmac/react-native-pagination<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/6bd6780d4b034f881c448bd784f3709be5da1f34/68747470733a2f2f63646e2e7261776769742e636f6d2f676172726574746d61632f696d616765732f61386534623834372f70726f6a656374732f72656163742d6e61746976652d706167696e6174696f6e2f72656163742d6e61746976652d706167696e6174696f6e2d766572742e676966" width="27%"/>
+<br>
+解释：Animated Pagination For React Native's ListView, FlatList, and SectionList
+<br>
+
+
 https://github.com/droidwolf/react-native-RealRecyclerView<br>
 预览:<br>
 <img src="https://github.com/droidwolf/react-native-RealRecyclerView/raw/master/GIF.gif" width="30%"/>
