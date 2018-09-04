@@ -27,6 +27,13 @@ git地址：https://github.com/huiseoul/react-native-fit-image<br>
 ### 图片浏览 
 
 
+
+项目名：react-native-image-carousel<br>
+git地址：https://github.com/anvilabs/react-native-image-carousel<br>
+预览:<br>
+<img src="https://github.com/anvilabs/react-native-image-carousel/raw/master/.github/demo.gif" width="25%"/>
+<br>
+
 项目名：react-native-lightbox<br>
 git地址：https://github.com/oblador/react-native-lightbox<br>
 预览:<br>
