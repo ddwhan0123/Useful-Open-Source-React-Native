@@ -3,6 +3,13 @@
 
 
 
+https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior<br>
+解释：react-native wrapper for android BottomSheetBehavior
+<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif" width="30%"/>
+<br>
+
 https://github.com/sohobloo/react-native-modal-dropdown<br>
 解释：A react-native dropdown/picker/selector component for both Android & iOS.
 <br>
