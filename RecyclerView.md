@@ -18,6 +18,15 @@ https://github.com/FaridSafi/react-native-gifted-listview<br>
 
 
 ## 特殊效果<br>
+
+
+https://github.com/brh55/react-native-masonry<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/a0c35ff917e8fa940ee3633d99609993d6cccb7d/687474703a2f2f672e7265636f726469742e636f2f534c4176547a663948592e676966" width="28%"/>
+<br>
+解释：A pure JS react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, on-press handlers, and headers/captions.
+<br>
+
 https://github.com/i6mi6/react-native-parallax-scroll-view<br>
 预览:<br>
 <img src="https://github.com/i6mi6/react-native-parallax-scroll-view/raw/master/demo.ios.0.17.2.gif" width="28%"/>
