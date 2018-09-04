@@ -1,5 +1,13 @@
-## PopupWindow
+## PopupWindow<br>
 
+
+
+https://github.com/puredazzle/react-native-simple-picker<br>
+解释：A simple picker for React Native. 
+<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/499192/14314055/79b56344-fbf5-11e5-9813-66a2d2a040c7.gif" width="30%"/>
+<br>
 
 
 https://github.com/lawnstarter/react-native-picker-select<br>
@@ -10,12 +18,6 @@ https://github.com/lawnstarter/react-native-picker-select<br>
 <br>
 
 
-https://github.com/puredazzle/react-native-simple-picker<br>
-解释：A simple picker for React Native. 
-<br>
-预览:<br>
-<img src="https://cloud.githubusercontent.com/assets/499192/14314055/79b56344-fbf5-11e5-9813-66a2d2a040c7.gif" width="30%"/>
-<br>
 
 https://github.com/xgfe/react-native-picker-xg<br>
 解释：react native Picker component for both Android and iOS based on pure JavaScript [for the old realize, you can use the version 0.0.8]
