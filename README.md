@@ -12,6 +12,7 @@
 
 
 
+
 ##  Chart<br>
 ## [点击跳转 Chart.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Chart.md)
 ##  Text<br>
@@ -54,6 +55,9 @@
 
 ##  Data<br>
 ## [点击跳转 Data.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Data.md)
+
+##  Switch<br>
+## [点击跳转 Switch.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/Switch.md)
 
 ##  RecyclerView<br>
 ## [点击跳转 RecyclerView.md](https://github.com/ddwhan0123/Useful-Open-Source-React-Native/blob/master/RecyclerView.md)
