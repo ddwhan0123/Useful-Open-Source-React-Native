@@ -2,11 +2,11 @@
 
 
 
-https://github.com/KBLNY/react-native-message-bar<br>
+https://github.com/localz/react-native-searchbar<br>
 预览:<br>
-<img src="https://camo.githubusercontent.com/fca60200a77c86b804e6a8786caaa15d8cd10433/687474703a2f2f7333312e706f7374696d672e6f72672f6378713678357372662f556e7469746c65642e676966" width="23%"/>
+<img src="https://camo.githubusercontent.com/ae14f0bdfaa9b56177a97468ea757d5d9ca30c2e/687474703a2f2f692e696d6775722e636f6d2f69323159776e572e676966" width="23%"/>
 <br>
-解释：A notification bar alert displayed at the top of the screen for react-native
+解释：A pretty sweet search bar for React Native.
 <br>
 
 
