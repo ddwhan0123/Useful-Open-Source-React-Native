@@ -19,3 +19,13 @@ https://github.com/lelandrichardson/react-native-parallax-view<br>
 <br>
 解释：Parallax view for vertical scrollview/listviews with a header image and header content
 <br>
+
+
+项目名：react-native-image-header-scroll-view<br>
+git地址：https://github.com/bamlab/react-native-image-header-scroll-view<br>
+预览:<br>
+<img src="https://github.com/bamlab/react-native-image-header-scroll-view/raw/master/readmeAssets/demoIos.gif" width="27%"/><br>
+解释:
+<br>
+ScrollView with an image in header which becomes a navbar
+<br>
