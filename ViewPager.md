@@ -6,6 +6,12 @@
 
 
 
+项目名：react-native-swipe-a-lot<br>
+git地址：https://github.com/nickjanssen/react-native-swipe-a-lot<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/cb7497ef815135d768f423c5dffbc9ac8f9c0de9/687474703a2f2f692e696d6775722e636f6d2f503131465070522e676966" width="29%"/>
+<br>
+
 
 项目名：react-native-swiper<br>
 git地址：https://github.com/leecade/react-native-swiper<br>
