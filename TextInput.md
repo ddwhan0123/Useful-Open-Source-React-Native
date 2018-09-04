@@ -2,6 +2,16 @@
 
 
 
+
+项目名：react-native-md-textinput<br>
+git地址：https://github.com/evblurbs/react-native-md-textinput<br>
+预览:<br>
+<img src="https://github.com/evblurbs/react-native-md-textinput/raw/master/demo.gif" width="26%"/>
+<br>
+描述:<br>
+React Native TextInput styled with Material Design.
+<br>
+
 项目名：react-native-stateless-form<br>
 git地址：https://github.com/danielweinmann/react-native-stateless-form<br>
 预览:<br>
