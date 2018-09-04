@@ -10,13 +10,6 @@ https://github.com/puredazzle/react-native-simple-picker<br>
 <br>
 
 
-https://github.com/lawnstarter/react-native-picker-select<br>
-解释：A Picker component for React Native which emulates the native <select> interfaces for iOS and Android
-<br>
-预览:<br>
-<img src="https://github.com/lawnstarter/react-native-picker-select/raw/master/example/ios-example.gif" width="30%"/>
-<br>
-
 
 
 https://github.com/xgfe/react-native-picker-xg<br>
