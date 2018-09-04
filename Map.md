@@ -1,6 +1,11 @@
 ## Map<br>
 
 
+项目名：react-native-streetview<br>
+git地址：https://github.com/nesterapp/react-native-streetview<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/022bb77eab9350c56191f35407ea8bcab327a628/687474703a2f2f692e696d6775722e636f6d2f4f33757a7772432e706e67" width="23%"/>
+
 项目名：react-native-progressive-input<br>
 git地址：https://github.com/khaiql/react-native-progressive-input<br>
 预览:<br>
