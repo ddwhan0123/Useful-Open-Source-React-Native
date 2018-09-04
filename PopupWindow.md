@@ -3,6 +3,13 @@
 
 
 
+https://github.com/oblador/react-native-collapsible<br>
+解释：Animated collapsible component for React Native, good for accordions, toggles etc
+<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/378279/8047315/0237ca2c-0e44-11e5-9a16-1da052406eb0.gif" width="30%"/>
+<br>
+
 https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior<br>
 解释：react-native wrapper for android BottomSheetBehavior
 <br>
