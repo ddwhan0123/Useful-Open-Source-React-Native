@@ -3,6 +3,14 @@
 
 
 
+https://github.com/chirag04/react-native-tooltip<br>
+解释：A react-native wrapper for showing tooltips
+<br>
+预览:<br>
+<img src="https://github.com/chirag04/react-native-tooltip/raw/master/screenshot.png" width="30%"/>
+<br>
+
+
 https://github.com/oblador/react-native-collapsible<br>
 解释：Animated collapsible component for React Native, good for accordions, toggles etc
 <br>
