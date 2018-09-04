@@ -25,5 +25,9 @@ https://github.com/i6mi6/react-native-parallax-scroll-view<br>
 解释： A ScrollView-like component with parallax and sticky header support.
 <br>
 
-
-
+## 拖拽效果<br>
+https://github.com/gitim/react-native-sortable-list<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/gitim/react-native-sortable-list/master/demo.gif" width="38%"/>
+<br>
+解释： React Native Sortable List component
