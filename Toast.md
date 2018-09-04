@@ -24,3 +24,11 @@ https://github.com/magicismight/react-native-root-toast<br>
 预览:<br>
 <img src="https://github.com/magicismight/react-native-root-toast/raw/master/Example/screen-shoots.gif" width="30%"/>
 <br>
+
+
+https://github.com/testshallpass/react-native-dropdownalert<br>
+解释：A simple alert to notify users about new chat messages, something went wrong or everything is ok.
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/2a5dcd1d344b51d58ac8a1c7294b4e9dcb0d8ed9/68747470733a2f2f7261772e6769746875622e636f6d2f746573747368616c6c706173732f72656163742d6e61746976652d64726f70646f776e616c6572742f6d61737465722f73637265656e73686f74732f64656d6f2e676966" width="30%"/>
+<br>
