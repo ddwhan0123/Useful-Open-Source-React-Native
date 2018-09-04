@@ -16,3 +16,8 @@ https://github.com/walmartlabs/react-native-platform-visible<br>
 https://github.com/yeyintkoko/react-native-sms-x<br>
 解释：A  react-native api to send SMS messages
 <br>
+
+### PDF相关<br>
+https://github.com/cnjon/react-native-pdf-view<br>
+解释：React Native PDF View
+<br>
