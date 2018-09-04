@@ -1,5 +1,13 @@
 ## Calendar
 
+
+https://github.com/vlad-doru/react-native-calendar-datepicker<br>
+预览:<br>
+<img src="https://github.com/vlad-doru/react-native-calendar-datepicker/raw/master/demo.gif?raw=true" width="27%"/>
+<br>
+解释：React-Native cross-platform, calendar component.
+<br>
+
 https://github.com/christopherdro/react-native-calendar<br>
 预览:<br>
 <img src="https://github.com/christopherdro/react-native-calendar/raw/master/images/calendarControls.png" width="30%"/>
