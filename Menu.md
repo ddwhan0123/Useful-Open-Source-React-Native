@@ -2,6 +2,15 @@
 
 
 
+
+https://github.com/melihberberolu/react-native-scaling-drawer<br>
+预览:<br>
+<img src="https://cloud.githubusercontent.com/assets/3721734/23039111/278b754c-f495-11e6-8f59-6a3bd08e11cf.gif" width="33%"/>
+<br>
+解释：
+React Native Scaling Drawer
+<br>
+
 https://github.com/shoumma/react-native-off-canvas-menu<br>
 预览:<br>
 <img src="https://github.com/shoumma/react-native-off-canvas-menu/raw/master/visuals/OffCanvas3D.gif" width="33%"/>
