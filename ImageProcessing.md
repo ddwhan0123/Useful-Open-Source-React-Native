@@ -35,6 +35,13 @@ git地址：https://github.com/huiseoul/react-native-fit-image<br>
 
 
 
+
+项目名：react-native-zoom-image<br>
+git地址：https://github.com/Tinysymphony/react-native-zoom-image<br>
+预览:<br>
+<img src="https://github.com/Tinysymphony/react-native-zoom-image/raw/master/GIF/android.gif" width="25%"/>
+<br>
+
 项目名：react-native-image-carousel<br>
 git地址：https://github.com/anvilabs/react-native-image-carousel<br>
 预览:<br>
