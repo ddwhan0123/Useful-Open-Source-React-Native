@@ -1,7 +1,7 @@
 #  动画/互动特效
 
 
-## 强交互组件(半成品)<br>
+## 强交互组件(半成品)
 
 项目名：react-native-pulse-loader<br>
 git地址：https://github.com/mastermoo/react-native-pulse-loader<br>
