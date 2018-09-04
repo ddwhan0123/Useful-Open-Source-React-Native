@@ -3,6 +3,12 @@
 
 ## 强交互组件(半成品)<br>
 
+项目名：react-native-pulse-loader<br>
+git地址：https://github.com/mastermoo/react-native-pulse-loader<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/ce6adbc44a0df3aa26e30ff52a878ce75b035c90/687474703a2f2f692e67697068792e636f6d2f6c304d597a32634d624f72797579505a752e676966" width="22%"/>
+<br>
+
 项目名：react-native-display<br>
 git地址：https://github.com/sundayhd/react-native-display<br>
 预览:<br>
