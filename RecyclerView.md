@@ -20,6 +20,13 @@ https://github.com/FaridSafi/react-native-gifted-listview<br>
 ## 特殊效果<br>
 
 
+https://github.com/bolan9999/react-native-largelist<br>
+预览:<br>
+<img src="https://github.com/bolan9999/react-native-largelist/raw/master/docs/res/RefreshAndLoading.gif" width="28%"/>
+<br>
+解释：The best large list component for React Native
+<br>
+
 https://github.com/brh55/react-native-masonry<br>
 预览:<br>
 <img src="https://camo.githubusercontent.com/a0c35ff917e8fa940ee3633d99609993d6cccb7d/687474703a2f2f672e7265636f726469742e636f2f534c4176547a663948592e676966" width="28%"/>
