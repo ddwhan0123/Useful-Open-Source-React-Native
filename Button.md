@@ -3,6 +3,13 @@
 
 
 
+https://github.com/danceyoung/react-native-selectmultiple-button<br>
+预览:<br>
+<img src="https://github.com/danceyoung/react-native-selectmultiple-button/raw/master/screenCapture/ios-screencapture.gif?raw=true" width="32%"/>
+<br>
+解释：A button (or a grouped buttons) supporting multiple or radio selection by building with React Native
+<br>
+
 https://github.com/AppliKeySolutions/RocketButton<br>
 预览:<br>
 <img src="https://user-images.githubusercontent.com/10288457/29079755-b0809b58-7c66-11e7-8a68-004ccb227e5f.gif" width="32%"/>
