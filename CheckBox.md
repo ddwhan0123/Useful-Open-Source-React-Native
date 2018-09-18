@@ -4,6 +4,13 @@
 
 
 
+https://github.com/caroaguilar/react-native-custom-checkbox<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/caroaguilar/images-gifs/master/react-native-custom-checkbox/demo.gif" width="30%"/>
+<br>
+解释：It's a React Native checkbox that can be customize.
+<br>
+
 https://github.com/hinet/react-native-checkboxlist<br>
 预览:<br>
 <img src="https://github.com/hinet/react-native-checkboxlist/raw/master/assets/images/screenshot02.png" width="30%"/>
