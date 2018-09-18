@@ -1,5 +1,14 @@
 ## Dialog
 
+
+
+
+项目名：react-native-awesome-alert<br>
+git地址：https://github.com/heyman333/react-native-awesome-alert<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9578b759ec8cac4da32250f5c77fa2ff1db590d5/68747470733a2f2f7468756d62732e6766796361742e636f6d2f44656669616e74556e696d706f7274616e744561676c652d73697a655f726573747269637465642e676966" width="28%"/>
+<br>
+
 项目名：react-native-popup-dialog<br>
 git地址：https://github.com/jacklam718/react-native-popup-dialog<br>
 预览:<br>
