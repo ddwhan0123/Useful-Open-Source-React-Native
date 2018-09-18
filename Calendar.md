@@ -1,6 +1,13 @@
 ## Calendar
 
 
+https://github.com/SmallStoneSK/react-native-draggable-calendar<br>
+预览:<br>
+<img src="https://github.com/SmallStoneSK/react-native-draggable-calendar/raw/master/picture/demo3.gif" width="27%"/>
+<br>
+解释：A calendar component supporting dragging.
+<br>
+
 https://github.com/vlad-doru/react-native-calendar-datepicker<br>
 预览:<br>
 <img src="https://github.com/vlad-doru/react-native-calendar-datepicker/raw/master/demo.gif?raw=true" width="27%"/>
