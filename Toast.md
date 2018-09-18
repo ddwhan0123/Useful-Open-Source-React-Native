@@ -2,6 +2,13 @@
 
 
 
+https://github.com/onemolegames/react-native-toast-native<br>
+解释：A native and easy to use toast plugin for react-native
+<br>
+预览:<br>
+<img src="https://github.com/onemolegames/react-native-toast-native/raw/master/test.gif" width="27%"/>
+<br>
+
 https://github.com/robcalcroft/react-native-in-app-notification<br>
 解释：Customisable in-app notification component for React Native
 <br>
