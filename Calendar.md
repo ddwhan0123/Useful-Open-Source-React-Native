@@ -1,6 +1,14 @@
 ## Calendar
 
 
+
+https://github.com/maggialejandro/react-native-calendario<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/aba11795399ac09b50db2470dfc211d4e0f5333a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f65753866464347337273334945597779596b2f67697068792e676966" width="27%"/>
+<br>
+解释React Native Calendar
+<br>
+
 https://github.com/SmallStoneSK/react-native-draggable-calendar<br>
 预览:<br>
 <img src="https://github.com/SmallStoneSK/react-native-draggable-calendar/raw/master/picture/demo3.gif" width="27%"/>
