@@ -121,6 +121,14 @@ FastImage, performant React Native image component.
 ### 特殊图片功能<br>
 
 
+项目名：react-native-responsive-image<br>
+git地址：https://github.com/charlot567/react-native-comparison-slider<br>
+预览:<br>
+<img src="https://github.com/charlot567/react-native-comparison-slider/raw/master/demo_comparison_slider.gif" width="37%"/><br>
+解释:
+<br>
+Comparison slider for 2 images for React-Native.
+<br>
 
 项目名：react-native-responsive-image<br>
 git地址：https://github.com/ladas-larry/react-native-responsive-image<br>
