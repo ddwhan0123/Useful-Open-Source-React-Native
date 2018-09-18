@@ -35,6 +35,11 @@ git地址：https://github.com/huiseoul/react-native-fit-image<br>
 
 
 
+项目名：react-native-images-collage<br>
+git地址：https://github.com/lukebrandonfarrell/react-native-images-collage<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/LukeBrandonFarrell/open-source-images/master/react-native-images-collage/i3.gif" width="25%"/>
+<br>
 
 项目名：react-native-zoom-image<br>
 git地址：https://github.com/Tinysymphony/react-native-zoom-image<br>
