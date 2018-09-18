@@ -6,6 +6,12 @@
 
 
 
+项目名：react-native-elastic-stack<br>
+git地址：https://github.com/monterosalondon/react-native-elastic-stack<br>
+预览:<br>
+<img src="https://github.com/monterosalondon/react-native-elastic-stack/raw/master/demo/ios-demo-1.gif" width="29%"/>
+<br>
+
 项目名：react-native-swipe-a-lot<br>
 git地址：https://github.com/nickjanssen/react-native-swipe-a-lot<br>
 预览:<br>
