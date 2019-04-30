@@ -13,6 +13,13 @@ git地址：https://github.com/dondoko-susumu/react-native-card-media<br>
 ### 圆角图片控件 <br>
 
 
+
+项目名：react-native-fb-collage<br>
+git地址：https://github.com/meharbhutta/react-native-fb-collage<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/meharbhutta/react-native-fb-collage/master/demo/screenshot-android.png" width="25%"/>
+<br>
+
 项目名：react-native-beautiful-image<br>
 git地址：https://github.com/phuochau/react-native-beautiful-image<br>
 预览:<br>
