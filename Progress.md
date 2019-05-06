@@ -11,6 +11,13 @@ git地址：https://github.com/lwansbrough/react-native-progress-bar<br>
 
 
 ### 圆形进度条<br>
+
+项目名：react-native-circular-slider<br>
+git地址：https://github.com/bartgryszko/react-native-circular-slider<br>
+预览:<br>
+<img src="https://github.com/bartgryszko/react-native-circular-slider/raw/master/screenshot.gif" width="25%"/>
+<br>
+
 项目名：react-native-download-button<br>
 git地址：https://github.com/prscX/react-native-download-button<br>
 预览:<br>
