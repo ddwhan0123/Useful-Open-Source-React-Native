@@ -21,3 +21,10 @@ https://github.com/capitalone/react-native-pathjs-charts<br>
 解释：Android and iOS charts based on react-native-svg and paths-js
 <br>
 
+
+https://github.com/indiespirit/react-native-chart-kit<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/0d82eec5a4de8a4f797c822ba256b3d1d0f1ee37/68747470733a2f2f692e696d6775722e636f6d2f496470345749582e6a7067" width="60%"/>
+<br>
+解释：React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+<br>
