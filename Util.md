@@ -1,8 +1,11 @@
 ## Util<br>
 
-https://github.com/rebeccahughes/react-native-device-info<br>
-解释：Device Information for React Native iOS and Android
-<br>
+
+项目名：react-native-paper<br>
+git地址：https://github.com/callstack/react-native-paper<br>
+解释：Material Design for React Native (Android & iOS)
+预览:<br>
+<img src="https://reactnativepaper.com/static/hero-image-9a008b1a3ebb4b31c465c2aa11050063.png" width="23%"/>
 
 ## 常用公共模块<br>
 
