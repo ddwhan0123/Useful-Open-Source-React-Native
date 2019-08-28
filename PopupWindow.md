@@ -1,5 +1,19 @@
 ## PopupWindow<br>
 
+https://github.com/react-component/m-date-picker<br>
+解释：React Mobile DatePicker(web & react-native)
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9bc1f42c5eeacafb9243ce713520913b9fa47989/68747470733a2f2f696d672e616c6963646e2e636f6d2f7470732f5442316e485f344b705858585861435846585858585858585858582d3430342d3630372e706e67" width="30%"/>
+<br>
+
+https://github.com/sohobloo/react-native-modal-dropdown<br>
+解释：A react-native dropdown/picker/selector component for both Android & iOS.
+<br>
+预览:<br>
+<img src="https://github.com/sohobloo/react-native-modal-dropdown/raw/master/docs/demo_3.gif?raw=true" width="30%"/>
+<br>
+
 https://github.com/lesliesam/react-native-wheel-picker<br>
 解释：Cross platform Picker component based on React-native.
 <br>
