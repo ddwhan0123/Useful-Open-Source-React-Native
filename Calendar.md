@@ -1,6 +1,11 @@
 ## Calendar
 
-
+https://github.com/stephy/CalendarPicker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/stephy/CalendarPicker/master/assets/basic-react-native-calendar-picker.gif" width="27%"/>
+<br>
+解释：CalendarPicker Component for React Native
+<br>
 
 https://github.com/maggialejandro/react-native-calendario<br>
 预览:<br>
