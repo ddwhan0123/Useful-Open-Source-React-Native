@@ -1,5 +1,17 @@
 ## PopupWindow<br>
 
+
+
+
+https://github.com/renrizzolo/react-native-sectioned-multi-select<br>
+解释：a multi (or single) select component with support for sub categories, search, chips.
+<br>
+预览:<br>
+<img src="https://github.com/renrizzolo/react-native-sectioned-multi-select/raw/master/previews/example_recording-2.gif" width="30%"/>
+<br>
+
+
+
 https://github.com/react-component/m-date-picker<br>
 解释：React Mobile DatePicker(web & react-native)
 <br>
