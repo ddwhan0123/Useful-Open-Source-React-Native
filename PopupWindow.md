@@ -1,5 +1,11 @@
 ## PopupWindow<br>
 
+https://github.com/hiddentao/react-native-modal-filter-picker<br>
+解释：Cross-platform modal picker for React Native which supports keyword filtering, custom rendering, etc
+<br>
+预览:<br>
+<img src="https://github.com/hiddentao/react-native-modal-filter-picker/raw/master/demo.gif" width="30%"/>
+<br>
 
 
 
