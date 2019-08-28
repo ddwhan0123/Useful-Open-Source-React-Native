@@ -14,7 +14,12 @@ https://github.com/puredazzle/react-native-simple-picker<br>
 <img src="https://cloud.githubusercontent.com/assets/499192/14314055/79b56344-fbf5-11e5-9813-66a2d2a040c7.gif" width="30%"/>
 <br>
 
-
+https://github.com/Elyx0/react-native-document-picker<br>
+解释：Document Picker for React Native using Document Providers
+<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/9e4ea16c14c26fbe32b411cfaec8db9b1d2b7285/687474703a2f2f692e737461636b2e696d6775722e636f6d2f64763069512e706e67" width="30%"/>
+<br>
 
 
 https://github.com/xgfe/react-native-picker-xg<br>
