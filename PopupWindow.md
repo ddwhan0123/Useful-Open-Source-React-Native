@@ -1,12 +1,12 @@
 ## PopupWindow<br>
 
-
-https://github.com/lawnstarter/react-native-picker-select<br>
-解释：A Picker component for React Native which emulates the native <select> interfaces for iOS and Android
+https://github.com/lesliesam/react-native-wheel-picker<br>
+解释：Cross platform Picker component based on React-native.
 <br>
 预览:<br>
-<img src="https://github.com/lawnstarter/react-native-picker-select/raw/master/ex-android.gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/lesliesam/react-native-wheel-picker/master/demo_android.gif" width="30%"/>
 <br>
+
 
 https://github.com/d-a-n/react-native-modal-picker<br>
 解释：A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
