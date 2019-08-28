@@ -1,6 +1,14 @@
 ## Calendar
 
 
+
+https://github.com/henninghall/react-native-date-picker<br>
+预览:<br>
+<img src="https://github.com/henninghall/react-native-date-picker/raw/master/docs/react-native-date-picker-android.gif" width="27%"/>
+<br>
+解释：React Native Date Picker - A datepicker for Android and iOS. Including date, time and datetime picker mode.
+<br>
+
 https://github.com/mmazzarolo/react-native-modal-datetime-picker<br>
 预览:<br>
 <img src="https://github.com/mmazzarolo/react-native-modal-datetime-picker/raw/master/.github/images/datetimepicker-android.gif" width="27%"/>
