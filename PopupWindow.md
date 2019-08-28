@@ -1,7 +1,12 @@
 ## PopupWindow<br>
 
 
-
+https://github.com/iberHK/react-native-picker<br>
+解释：纯JS实现的一个高效流畅的日期选择器和区域选择器，支持android、ios
+<br>
+预览:<br>
+<img src="https://github.com/iberHK/react-native-pickers/raw/master/screenshot/demo2.gif?raw=true" width="30%"/>
+<br>
 
 https://github.com/renrizzolo/react-native-sectioned-multi-select<br>
 解释：a multi (or single) select component with support for sub categories, search, chips.
