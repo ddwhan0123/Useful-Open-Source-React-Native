@@ -2,6 +2,14 @@
 
 
 
+https://github.com/ivanchenko/react-native-day-picker<br>
+预览:<br>
+<img src="https://github.com/ivanchenko/react-native-day-picker/raw/master/example-day-picker.gif?raw=true" width="27%"/>
+<br>
+解释：Simple calendar which allows you select date range
+<br>
+
+
 https://github.com/henninghall/react-native-date-picker<br>
 预览:<br>
 <img src="https://github.com/henninghall/react-native-date-picker/raw/master/docs/react-native-date-picker-android.gif" width="27%"/>
