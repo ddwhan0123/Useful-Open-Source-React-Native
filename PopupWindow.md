@@ -1,6 +1,11 @@
 ## PopupWindow<br>
 
-
+https://github.com/d-a-n/react-native-modal-picker<br>
+解释：A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
+<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/d-a-n/react-native-modal-picker/master/docs/demo.gif" width="30%"/>
+<br>
 
 https://github.com/puredazzle/react-native-simple-picker<br>
 解释：A simple picker for React Native. 
