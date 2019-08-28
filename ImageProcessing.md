@@ -74,7 +74,11 @@ git地址：https://github.com/ascoders/react-native-image-viewer<br>
 
 ### 图片选择器 
 
-
+项目名：react-native-camera-roll-picker<br>
+git地址：https://github.com/jeanpan/react-native-camera-roll-picker<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/jeanpan/react-native-camera-roll-picker/master/demo/demo.gif" width="25%"/>
+<br>
 
 项目名：react-native-image-crop-picker<br>
 git地址：https://github.com/ivpusic/react-native-image-crop-picker<br>
