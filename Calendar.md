@@ -2,6 +2,16 @@
 
 
 
+
+
+https://github.com/werein/react-native-dates<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/29a801c478830323ae31c2542cc12b57cd659525/687474703a2f2f692e67697068792e636f6d2f595571794b516f654e733276362e676966" width="27%"/>
+<br>
+解释：React Native date / daterange picker and calendar
+<br>
+
+
 https://github.com/ivanchenko/react-native-day-picker<br>
 预览:<br>
 <img src="https://github.com/ivanchenko/react-native-day-picker/raw/master/example-day-picker.gif?raw=true" width="27%"/>
