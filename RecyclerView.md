@@ -56,9 +56,16 @@ https://github.com/i6mi6/react-native-alphabetlistview<br>
 解释：A Listview with a sidebar to jump to sections directly
 <br>
 
-## 拖拽效果<br>
-https://github.com/gitim/react-native-sortable-list<br>
+## 头部效果<br>
+
+
+
+
+
+https://github.com/sophister/react-native-pull-to-refresh-custom<br>
 预览:<br>
-<img src="https://raw.githubusercontent.com/gitim/react-native-sortable-list/master/demo.gif" width="38%"/>
+<img src="https://github.com/sophister/react-native-pull-to-refresh-custom/blob/master/screenshot/demo.gif" width="27%"/>
 <br>
-解释： React Native Sortable List component
+解释：Custom pull to refresh Header supporting for React Native ScrollView/FlatList
+<br>
+
