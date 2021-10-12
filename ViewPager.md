@@ -25,6 +25,12 @@ git地址：https://github.com/leecade/react-native-swiper<br>
 <img src="https://camo.githubusercontent.com/67811c9b23719e308968ea425514edf85a0d36af/687474703a2f2f692e696d6775722e636f6d2f7a7273617a41472e6769663d33303078" width="23%"/>
 <br>
 
+项目名：react-native-pager-view<br>
+git地址：https://github.com/callstack/react-native-pager-view<br>
+预览:<br>
+<img src="https://github.com/callstack/react-native-pager-view/raw/master/img/vp-carousel.gif" width="23%"/>
+<br>
+
 
 项目名：react-native-app-intro<br>
 git地址：https://github.com/FuYaoDe/react-native-app-intro<br>
