@@ -2,6 +2,14 @@
 
 
 
+项目名：react-native-tab-view<br>
+git地址：https://github.com/satya164/react-native-tab-view<br>
+预览:<br>
+<img src="https://raw.githubusercontent.com/satya164/react-native-tab-view/main/demo/demo.gif" width="25%"/>
+<br>
+描述:<br>
+A cross-platform Tab View component for React Native. Implemented using react-native-pager-view on Android & iOS, and PanResponder on Web, macOS, and Windows.<br>
+
 项目名：react-native-tabs<br>
 git地址：https://github.com/aksonov/react-native-tabs<br>
 预览:<br>
