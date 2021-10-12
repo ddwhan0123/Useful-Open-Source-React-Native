@@ -1,6 +1,11 @@
 ## Map<br>
 
 
+项目名：react-native-maps<br>
+git地址：https://github.com/react-native-maps/react-native-maps<br>
+预览:<br>
+<img src="https://camo.githubusercontent.com/f629705297ca6932c03ed92259570d8bd99d375336fb4fc780c6139e99be8b24/687474703a2f2f692e67697068792e636f6d2f7854373758576a7145437664676a78396f412e676966" width="23%"/>
+
 项目名：react-native-streetview<br>
 git地址：https://github.com/nesterapp/react-native-streetview<br>
 预览:<br>
