@@ -72,7 +72,7 @@ https://github.com/christopherdro/react-native-calendar<br>
 
 https://github.com/wix/react-native-calendars<br>
 预览:<br>
-<img src="https://github.com/wix-private/wix-react-native-calendar/raw/master/demo/calendar.gif?raw=true" width="30%"/>
+<img src="https://github.com/wix-private/wix-react-native-calendar/raw/master/demo/assets/calendar.gif?raw=true" width="30%"/>
 <br>
 解释：React Native Calendar Components
 <br>
